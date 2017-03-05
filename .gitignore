@@ -1,0 +1,6 @@
+.env
+.todolist
+.notes/
+*.pyc
+venv/
+bin/
